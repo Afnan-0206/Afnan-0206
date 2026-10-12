@@ -1,7 +1,7 @@
 # Afnan B.R.
 
 > **AI Product Builder & Systems Engineer** &nbsp;|&nbsp; Bengaluru, India  
-> [Portfolio](https://afnan-portfolio-eta.vercel.app/) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/afnan-391912363) &nbsp;•&nbsp; [GitHub](https://github.com/Afnan-0206) &nbsp;•&nbsp; [Email](mailto:2102508519@svyasa-sas.edu.in)
+> [Portfolio](https://afnan-portfolio-eta.vercel.app/) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/afnan-391912363) &nbsp;•&nbsp; [GitHub](https://github.com/Afnan-0206) &nbsp;•&nbsp; [brafnan26@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=brafnan26@gmail.com)
 
 ```
 ┌── Engineering Philosophy ──────────────────────────────────────────────────────────────┐
